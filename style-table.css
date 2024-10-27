@@ -22,7 +22,7 @@ table.dataframe th:not(:empty) {
 }
 table.dataframe tr:nth-child(2) th:empty {
     border-left: none;
-    border-right: 1px dashed #888;
+    border-right: 1px dashed #c22c2c;
 }
 table.dataframe td {
     border: 2px solid #ccf;
